@@ -8,4 +8,4 @@ This is a custom-designed microcontroller board powered by the ESP32-S3-WROOM-1-
 🧩 Breadboard-friendly pin layout with multiple GPIOs
 ⚡ USB-C port for power and programming
 
-It is still a work in progress.
+It is still a work in progress.🚧
